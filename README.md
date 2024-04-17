@@ -1,7 +1,7 @@
 # Build your first Generative AI app in Android Studio 
 
 ## This repository outlines how you can use Android Studio to build an application that implements Generative AI using the [Google AI SDK](http://ai.google.dev/tutorials/android_quickstart?utm_source=android&utm_medium=referral). It lays out the process in three steps. Before beginning, ensure that you are running the [latest preview version of Android Studio](https://developer.android.com/studio/preview).
-
+ 
 ### Step 1: Build on the New Project template for AI
 _Start Android Studio and open a new project using File > New Project. Select the new Gemini API starter template._<br>
 
